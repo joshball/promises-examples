@@ -1,0 +1,22 @@
+{
+  "name": "promises-examples",
+  "version": "1.0.0",
+  "description": "promises-examples\r =================",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "W:\\\\src\\\\github\\\\clones\\\\promises-examples"
+  },
+  "author": "Joshua Ball <joshua.g.s.ball@gmail.com> (https://github.com/joshball/)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.4.2",
+    "lodash": "^2.4.1"
+  }
+}
